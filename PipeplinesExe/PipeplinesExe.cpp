@@ -6,7 +6,8 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello World from group 21!\n ";
+    std::cout <<"Apoorvasree Tandamalla – M15214239 \n Meghana siroru Acharya – M15176121";
     CoolClass coolClass;
     std::cout << "Calc " << coolClass.Calc(1, 2);
 }
